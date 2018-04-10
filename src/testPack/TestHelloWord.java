@@ -1,3 +1,4 @@
+package testPack;
 
 public class TestHelloWord {
 
